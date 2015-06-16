@@ -1,0 +1,6 @@
+{
+  "name": "babel-bug",
+  "dependencies": {
+    "babel-core": "5.5.8"
+  }
+}
